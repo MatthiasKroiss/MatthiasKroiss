@@ -1,11 +1,9 @@
 ### Hi there 👋👨🏻‍💻
 
-(only public repos)
-
-![MatthiasKroiss' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MatthiasKroiss&layout=compact&theme=dark)
+![MatthiasKroiss' GitHub stats](https://github-stats-mk.vercel.app/api/top-langs?username=MatthiasKroiss&layout=compact&theme=dark&exclude_repo=syt-raspi,syt-arduino,github-readme-stats)
 
 
-![MK STATS](https://github-readme-stats.vercel.app/api?username=MatthiasKroiss&show_icons=true&theme=dark)
+![MK STATS](https://github-stats-mk.vercel.app/api?username=MatthiasKroiss&show_icons=true&theme=dark)
 <!--
 **MatthiasKroiss/MatthiasKroiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
