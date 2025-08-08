@@ -1,6 +1,6 @@
 ### Hi there 👋👨🏻‍💻
 
-![MatthiasKroiss' GitHub stats](https://github-stats-mk.vercel.app/api/top-langs?username=MatthiasKroiss&layout=compact&theme=dark&exclude_repo=syt-raspi,syt-arduino,github-readme-stats)
+![MatthiasKroiss' GitHub stats](https://github-stats-mk.vercel.app/api/top-langs?username=MatthiasKroiss&layout=compact&theme=dark&exclude_repo=syt-raspi,syt-arduino,syt5-helf,matura-syt-examples,github-readme-stats)
 
 
 ![MK STATS](https://github-stats-mk.vercel.app/api?username=MatthiasKroiss&show_icons=true&theme=dark)
